@@ -1,0 +1,10 @@
+Why Github repo is required?
+
+Cloning - 1 Project cloned by two person. Whenever they will try to make changes
+they will get an error that the project is not updated.
+So they  will need to update the git repo.
+
+Version control system - we can assign version at particular interval for backup and recovery.
+
+Branching - 
+
