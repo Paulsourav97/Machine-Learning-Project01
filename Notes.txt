@@ -24,3 +24,49 @@ CICD - Continuous Integration and continuous deployment
 
 Trigger - Action to a incident.
 
+
+===============
+
+Agenda 
+
+1. Create Flask app
+2. Write a docker file
+3. Create github action for CICD
+4. Heroku app for flask deployment
+5. Create structure for ML project
+6. Build Machine learning Pipeline
+
+=================
+
+Create a conda enviornment
+'''
+conda create -p venv01 python==3.7 -y
+
+'''
+---------------------
+To add files to Git - 
+
+git add . 
+git add <file_name> 
+---------------------
+
+To ignore file or folders from git 
+we can write the name of file and folder in the git ignore file
+
+git status - To check all versions maintained by Git
+
+git log - To check git logs
+
+To create version/commit all changes by git
+git commit -m "message"
+
+To push changes to git
+git push origin main
+
+git remote -v (origin variable = check which link it is using)
+
+
+
+
+==========
+
