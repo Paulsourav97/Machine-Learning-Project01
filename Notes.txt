@@ -60,7 +60,7 @@ git log - To check git logs
 To create version/commit all changes by git
 git commit -m "message"
 
-To push changes to git
+To push changes to github
 git push origin main
 
 git remote -v (origin variable = check which link it is using)
