@@ -6,5 +6,21 @@ So they  will need to update the git repo.
 
 Version control system - we can assign version at particular interval for backup and recovery.
 
-Branching - 
+Branching - Replica Branching
+
+====================
+
+
+Docker
+======
+
+Portablility of our code - Use code on anyplace,anywhere(mac, linux, windows, etc)
+Container - 
+Image - 
+Isolation - 
+
+
+CICD - Continuous Integration and continuous deployment
+
+Trigger - Action to a incident.
 
